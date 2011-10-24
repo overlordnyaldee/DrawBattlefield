@@ -1,0 +1,20 @@
+<resources>
+<game_profile_page_info>
+  <suggestions_topic_id>10574</suggestions_topic_id>
+  <has_challenges>false</has_challenges>
+  <has_featured_application>false</has_featured_application>
+  <has_leaderboards>true</has_leaderboards>
+  <has_chat_rooms>true</has_chat_rooms>
+  <has_ipurchase>true</has_ipurchase>
+  <short_name>DrawBattle</short_name>
+  <is_owned_by_local_player>true</is_owned_by_local_player>
+  <has_achievements>true</has_achievements>
+  <name>DrawBattlefield</name>
+  <id>19523</id>
+  <icon_url>/uploads/application_descriptions/h_icons/a1/f9/6b/28/4043/icon.png</icon_url>
+</game_profile_page_info>
+<offline>
+  <leaderboards/>
+</offline>
+
+</resources>

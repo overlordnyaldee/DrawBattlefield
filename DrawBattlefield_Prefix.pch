@@ -1,0 +1,15 @@
+//
+// Prefix header for all source files of the 'DrawBattlefield' target in the 'DrawBattlefield' project
+//
+
+#ifdef __OBJC__
+   #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+
+#ifdef __cplusplus
+#import "OpenFeintPrefix.pch"
+#endif
+
+

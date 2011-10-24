@@ -1,0 +1,6 @@
+DrawBattlefield TODO
+
+1.3:
+Units don't pause for selection menu
+App delegate doesn't support some OFdelegate dashboard handling see OFDelegate.h
+//Unit management portrait support
